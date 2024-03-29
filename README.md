@@ -6,6 +6,8 @@ Trong bối cảnh ngày càng nhiều vụ hỏa hoạn xảy ra, việc trang 
 
 Bình chữa cháy, hoặc "fire extinguisher" trong tiếng Anh, là một thiết bị không thể thiếu trong mọi gia đình, cơ quan, hay doanh nghiệp. Là công cụ đầu tiên và quan trọng nhất trong việc kiểm soát và dập tắt đám cháy ngay từ khi chúng mới bắt đầu, bình chữa cháy giúp ngăn chặn sự lan rộng của lửa, từ đó bảo vệ tài sản và tính mạng con người.
 
+![image](https://github.com/HoangnguyenDev/binh-chua-chay/assets/10234503/5455f4c0-0e76-488f-b296-256c229b65e4)
+
 ### Các Loại Bình Chữa Cháy và Ứng Dụng
 
 Trên thị trường hiện nay, có nhiều loại bình chữa cháy khác nhau, mỗi loại phù hợp với một loại đám cháy cụ thể:
@@ -26,9 +28,9 @@ Việc biết cách sử dụng bình chữa cháy một cách an toàn và hi�
 3. **Nắm chặt lẫy và nhấn mạnh**: Điều này sẽ giúp phun chất chữa cháy ra ngoài.
 4. **Quét qua lại**: Di chuyển dòng chảy qua lại trên khu vực đám cháy cho đến khi lửa tắt hoàn toàn.
 
-Lưu ý, trước khi sử
+![image](https://github.com/HoangnguyenDev/binh-chua-chay/assets/10234503/8484a79f-d78a-40db-bafd-4af8b5e08242)
 
- dụng, hãy đảm bảo rằng bạn đã đọc kỹ hướng dẫn sử dụng và làm quen với bình chữa cháy.
+Lưu ý, trước khi sử dụng, hãy đảm bảo rằng bạn đã đọc kỹ hướng dẫn sử dụng và làm quen với bình chữa cháy.
 
 ### Bảo Dưỡng và Kiểm Định
 
@@ -37,6 +39,8 @@ Bình chữa cháy cần được bảo dưỡng định kỳ để đảm bảo
 ### Địa Chỉ Mua Bình Chữa Cháy Uy Tín
 
 Cửa hàng bình chữa cháy 5A tự hào là địa chỉ tin cậy cung cấp các sản phẩm bình chữa cháy chính hãng, chất lượng cao, với dịch vụ bảo hành uy tín. Với đội ngũ tư vấn chuyên nghiệp, chúng tôi sẵn sàng giúp bạn lựa chọn sản phẩm phù hợp với nhu cầu cụ thể của mình, đồng thời cung cấp giải pháp toàn diện cho an toàn phòng cháy chữa cháy.
+
+![image](https://github.com/HoangnguyenDev/binh-chua-chay/assets/10234503/48dfa447-5d48-4572-b7ae-28e402769899)
 
 ### Kết Luận
 
